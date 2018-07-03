@@ -2,4 +2,5 @@
 挑む100日
 
 ## List
-[DailyUI-001](001-SignUp) Sign Up
+[#001](001-SignUp) Sign Up
+[#002](002-CreditCardCheckout) Credit Card Checkout
