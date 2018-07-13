@@ -8,3 +8,5 @@
 - [#004](004-Calculator) Calculator
 - [#005](005-AppIcon) App Icon
 - [#006](006-UserProfile) User Profile
+- [#007](007-Setting) Setting
+- [#008](008-404Page) 404 Page
