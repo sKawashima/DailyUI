@@ -1,6 +1,5 @@
-# DailyUI#002
-
-## Credit Card Checkout
+# Daily UI #002 Credit Card Checkout
+![](https://cdn.dribbble.com/users/2396535/screenshots/4779546/0-main_1.gif)
 
 - テキストボックスの扱いはいつもどおり
 - 極力シンプルな形で

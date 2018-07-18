@@ -1,7 +1,5 @@
-# DailyUI#001
-
-## Sign Up
-新規登録<br>
+# Daily UI #001 Sign Up
+![](0-Main.png)
 
 #### メモ
 - 新規登録の際は他サービスから情報を持ってきてほしい

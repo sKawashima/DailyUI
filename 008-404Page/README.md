@@ -1,4 +1,5 @@
 # Daily UI #008 404 Page
+![](008.png)
 
 ## Memo
 - not found

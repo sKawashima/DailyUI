@@ -1,5 +1,4 @@
-# DailyUI#003
-## Landing Page
+# DailyUI #003 Landing Page
 ![](003.png)
 
 ### memo
